@@ -1,0 +1,4 @@
+Author : Steve Song <sshtel@gmail.com>
+
+This library files are copied from Raspberry Pi Jessie OS.
+You can copy them to proper library directory such as /usr/local/lib on Fedora 24 armv7hl OS environment until Fedora officially support BLAS libraries on dnf repo.
